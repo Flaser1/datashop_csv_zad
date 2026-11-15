@@ -1,0 +1,3 @@
+source_file;record_number;raw_order_id;error_type;reason
+orders.csv;4;1004;ValueError;Invalid amount: bad
+orders.csv;7;1007;ValueError;Amount: NaN must be finite and non-negative
