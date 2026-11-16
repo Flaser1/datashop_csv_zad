@@ -55,7 +55,7 @@ def normalize_order(raw_order: dict) -> dict:
     if order_id < 0:
         raise ValueError(f"order_id: {order_id} must be positive")
 
-    customer_name = raw_order["customer_name"].strip().capitalize()
+    customer_name = raw_order["customer_name"].strip().title()
     if customer_name == "":
         raise ValueError(f"customer_name: {customer_name} cannot be empty")
 

@@ -1,6 +1,6 @@
 order_id;customer_name;status;amount;country;note
-1001;Anna kowalska;paid;120.50;PL;"Promocja; kod ""START"""
-1002;Jan nowak;pending;80.00;DE;
-1003;Ola lis;paid;0;UNKNOWN;Zamowienie bezplatne
-1005;Anna kowalska;cancelled;20.00;PL;
-1006;Jan nowak;paid;50.25;DE;Druga platnosc
+1001;Anna Kowalska;paid;120.50;PL;"Promocja; kod ""START"""
+1002;Jan Nowak;pending;80.00;DE;
+1003;Ola Lis;paid;0;UNKNOWN;Zamowienie bezplatne
+1005;Anna Kowalska;cancelled;20.00;PL;
+1006;Jan Nowak;paid;50.25;DE;Druga platnosc
